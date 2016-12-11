@@ -2,7 +2,7 @@ gems: [jekyll-gist]
 title:            Fluentz
 tagline:          A beautiful theme.
 description:      Describe your website.
-canonical: https://fluentz.io
+canonical: https://fluentz.github.io
 
 # Owner/author information
 owner:
