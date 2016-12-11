@@ -1,0 +1,71 @@
+gems: [jekyll-gist]
+title:            Fluentz
+tagline:          A beautiful theme.
+description:      Describe your website.
+canonical: https://fluentz.io
+
+# Owner/author information
+owner:
+  name:           Fluentz
+  avatar:         avatar.png
+  bio:            "Aesthete & Athlete"
+  email:          contact@fluentz.io
+  twitter:        fleuntzinc
+  github:         fluentz
+  instagram:      ctrunsthis
+  dribbble:       coletownsend
+  disqus:         balzac
+  location:       "California"
+  # Plug in your disqus shortname!
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Open Graph customization
+opengraph:
+  locale:           en_US
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: https://fluentz.io
+    external: true
+  - title: Github
+    url: https://github.com/fluentz
+    external: true
+  - title: Twitter
+    url: https://twitter.com/fluentzinc
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Los_Angeles
+future:      true
+highlighter: rouge
+markdown:    kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
+#   toc_levels: 1..6
+#   syntax_highlighter: rouge
+# 
+#   syntax_highlighter_opts:
+#     line_numbers:
+#     line_numbers_start: 12
+#     tab_width: 4
+#     bold_every: 10
+#     css: class
+
+sass:
+    style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
