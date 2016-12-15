@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
-title: "Scaling Elasticsearch to Handle Lots of Data"
-description: "To scale for very large datasets, use Elasticsearch with filtered aliases"
+title: "Scale your Elasticsearch queries with filtered aliases"
+description: "Learn how to use Elasticsearch's filtered aliases to store and search very large datasets efficiently with a demonstration in the Ruby programming language."
 category: articles
 tags: [Elasticsearch, Scaling, Ruby, Full text search, user data flow]
 ---

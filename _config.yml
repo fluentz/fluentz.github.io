@@ -1,9 +1,8 @@
 gems: [jekyll-gist]
-title:            Fluentz
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: https://blog.fluentz.io
-url: https://blog.fluentz.io
+title:            Fluentz - A software consultancy building innovate products
+description:      We are a Silicon Valley software consultancy interested in hearing your product ideas and working with you to turn them into to revenue generating products. 
+canonical:        https://blog.fluentz.io
+url:              https://blog.fluentz.io
 
 # Owner/author information
 owner:

@@ -1,8 +1,8 @@
 ---
 layout: post
 author: Mike Kim
-title: "The Interpreter, the Lock, and the Block: IO Bound Threads and Ruby"
-description: "Yes, MRI threads can sometimes run in parallel"
+title: "Learn how to achieve parallelism with Ruby I/O Bound Threads"
+description: "Learn the secret to achieving true parallelism in the Ruby programming language with I/O bound threads and why the same can't be achieved for CPU bound threads."
 category: articles
 tags: [ruby, threads, IO-bound, MRI]
 image: 
