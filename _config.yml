@@ -8,16 +8,9 @@ url: https://blog.fluentz.io
 # Owner/author information
 owner:
   name:           Fluentz
-  avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
   email:          contact@fluentz.io
-  twitter:        fleuntzinc
+  twitter:        fluentzinc
   github:         fluentz
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "California"
-  # Plug in your disqus shortname!
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
