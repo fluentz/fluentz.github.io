@@ -1,7 +1,10 @@
 ---
-layout: post-no-feature
-title: "Scale your Elasticsearch queries with filtered aliases"
+layout:      post-no-feature
+author:      Mike Kim
+title:       "Scale your Elasticsearch queries with filtered aliases"
 description: "Learn how to use Elasticsearch's filtered aliases to store and search very large datasets efficiently with a demonstration in the Ruby programming language."
+main-header: "Scaling Elasticsearch to Handle Lots of Data"
+sub-header:  "To scale for very large datasets, use Elasticsearch with filtered aliases"
 category: articles
 ---
 

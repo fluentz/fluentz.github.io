@@ -1,9 +1,8 @@
 <!doctype html>
 <html lang="en" prefix="og: http://ogp.me/ns#">
 <meta charset="utf-8">
-<title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
-<meta name="description" content="{{ page.description }}">
-<meta name="keywords" content="{{ page.tags | join: ', ' }}">
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
 {% include graphs.html %}
 

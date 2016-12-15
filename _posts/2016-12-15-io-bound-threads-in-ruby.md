@@ -1,8 +1,10 @@
 ---
-layout: post
-author: Mike Kim
-title: "Learn how to achieve parallelism with Ruby I/O Bound Threads"
+layout:      post
+author:      Mike Kim
+title:       "Learn how to achieve parallelism with Ruby I/O Bound Threads"
 description: "Learn the secret to achieving true parallelism in the Ruby programming language with I/O bound threads and why the same can't be achieved for CPU bound threads."
+main-header: "The Interpreter, the Lock, and the Block: IO Bound Threads and Ruby"
+sub-header:  "Yes, MRI threads can sometimes run in parallel"
 category: articles
 image: 
         feature: soft-trees.jpg
