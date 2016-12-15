@@ -3,7 +3,6 @@ layout: post-no-feature
 title: "Scale your Elasticsearch queries with filtered aliases"
 description: "Learn how to use Elasticsearch's filtered aliases to store and search very large datasets efficiently with a demonstration in the Ruby programming language."
 category: articles
-tags: [Elasticsearch, Scaling, Ruby, Full text search, user data flow]
 ---
 
 Elasticsearch is a great data store for implementing full-text search and analytics. If your use-case warrants it, I would highly recommend using it. That said, there are certain applications where you need to be careful how you go about indexing your data.
